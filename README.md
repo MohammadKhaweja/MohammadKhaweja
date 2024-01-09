@@ -3,14 +3,14 @@
 <h3 align="center">A Software Developer and a Computer and Communication Engineer</h3>
 <br>
 <p align="center">
-<img src="https://tenor.com/view/currently-gliding-spaceglide-l9-ratirl-twitch-lol-gif-27198868" height="240" width="370"></p>
+<img src="https://media1.tenor.com/m/UBtZmMRCbE4AAAAd/currently-gliding-spaceglide.gif" height="240" width="370"></p>
 
 ## 💬 Ask me about
 <li>FullStack web development</li>
 <li>Telecommunications</li>
 <li>League of Legends</li>
 
-<div class="tenor-gif-embed" data-postid="27198868" data-share-method="host" data-aspect-ratio="0.959375" data-width="100%"><a href="https://tenor.com/view/currently-gliding-spaceglide-l9-ratirl-twitch-lol-gif-27198868">Currently Gliding Spaceglide GIF</a>from <a href="https://tenor.com/search/currently+gliding-gifs">Currently Gliding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <br>
 - 📫 How to reach me <a href="mailto:mohammadkhawaja1999@gmail.com">mohammadkhawaja1999@gmail.com</a>
 
