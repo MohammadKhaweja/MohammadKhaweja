@@ -4,13 +4,14 @@
 <br>
 
 ## 💬 Ask me about
--FullStack web development
--Telecommunications
--League of Legends
+<li>FullStack web development</li>
+<li>Telecommunications</li>
+<li>League of Legends</li>
+
+
 <br>
 - 📫 How to reach me **mohammadkhawaja1999@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <br>
