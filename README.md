@@ -8,7 +8,7 @@
 ## 💬 Ask me about
 <li>FullStack web development</li>
 <li>Telecommunications</li>
-<li>League of Legends</li>
+
 
 
 <br>
