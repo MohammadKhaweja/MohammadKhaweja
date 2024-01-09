@@ -3,7 +3,7 @@
 <h3 align="center">A Software Developer and a Computer and Communication Engineer</h3>
 <br>
 <p align="center">
-<img src="[https://tenor.com/view/drake-hotline-bling-dance-dancing-gif-17654506.gif](https://tenor.com/view/currently-gliding-spaceglide-l9-ratirl-twitch-lol-gif-27198868)" height="240" width="370"></p>
+<img src="https://tenor.com/view/currently-gliding-spaceglide-l9-ratirl-twitch-lol-gif-27198868" height="240" width="370"></p>
 
 ## 💬 Ask me about
 <li>FullStack web development</li>
