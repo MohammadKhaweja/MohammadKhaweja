@@ -1,4 +1,3 @@
-# MohammadKhaweja
 <h1 align="center">Hi 👋, I'm Mohammad Khawaja</h1>
 <h3 align="center">A Software Developer and a Computer and Communication Engineer</h3>
 <br>
@@ -9,11 +8,8 @@
 <li>FullStack web development</li>
 <li>Telecommunications</li>
 
-
-
 <br>
 - 📫 How to reach me <a href="mailto:mohammadkhawaja1999@gmail.com">mohammadkhawaja1999@gmail.com</a>
-
 <p align="left">
 </p>
 <br>
