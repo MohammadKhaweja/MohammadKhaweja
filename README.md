@@ -10,7 +10,7 @@
 
 
 <br>
-- 📫 How to reach me <a href="mailto:mohammadkhawaja1999@gmail.com:>**mohammadkhawaja1999@gmail.com**</a>
+- 📫 How to reach me <a href="mailto:mohammadkhawaja1999@gmail.com">mohammadkhawaja1999@gmail.com</a>
 
 <p align="left">
 </p>
