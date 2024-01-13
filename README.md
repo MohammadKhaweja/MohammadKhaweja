@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer and a Computer and Communication Engineer</h3>
 <br>
 <p align="center">
-<img src="https://tenor.com/view/penguinz0-yeah-baby-meme-gif-18635064" height="240" width="370"></p>
+<img src="https://media1.tenor.com/m/O5jZtKfuDRoAAAAd/penguinz0-yeah-baby.gif" height="240" width="370"></p>
 
 ## 💬 Ask me about
 <li>FullStack web development</li>
