@@ -3,7 +3,7 @@
 <h4 align="center">building, testing, maintaining and deploying ...</h4>
 <br>
 <p align="center">
-<img src="https://media1.tenor.com/m/vH_jTsc412kAAAAd/multitasking-meme-tom.gif" height="250" width="320"></p>
+<img src="https://media1.tenor.com/m/GIukGbIHmBkAAAAd/tom-and-jerry-orchestra.gif" height="247" width="320"></p>
 
 ## 👨‍💻 About me
 
